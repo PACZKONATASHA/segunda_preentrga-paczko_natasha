@@ -127,6 +127,33 @@ nav ul li a {
       color: #D2B4DE;
     }
     
+    *{
+      margin: o;
+      padding: 0;
+      box-sizing: border-box;
+      }
+    
+
+          .grid-container-listas-de-politica
+         
+          .item1{
+          background-color: rgb(255, 0, 221);
+          }
+          .item2{
+            background-color: rgb(250, 215, 221);
+          }
+          .item3{
+            background-color: rgb(255, 240, 247);
+          }
+      
+  
+      
+      
+    
+        
+      
+      
+  
     
     
   
