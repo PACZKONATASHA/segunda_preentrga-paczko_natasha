@@ -145,11 +145,14 @@ nav ul li a {
              "item2 item2 item2 item2 item2"
              "item3 item3 item3 item3 item3";
              justify-content: center;
+             align-content: center;
           }
          
           .item1{
           background-color: rgb(255, 0, 221);
           grid-area: item1;
+          justify-content: center;
+          align-items: center;
           }
           .item2{
             background-color: rgb(250, 215, 221);
