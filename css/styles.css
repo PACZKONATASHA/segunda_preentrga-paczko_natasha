@@ -134,7 +134,11 @@ nav ul li a {
       }
     
 
-          .grid-container-listas-de-politica
+          .grid-container-listas-de-politica{
+            display: grid;
+            grid-template-columns: 200px 200px 200px ;
+
+          }
          
           .item1{
           background-color: rgb(255, 0, 221);
