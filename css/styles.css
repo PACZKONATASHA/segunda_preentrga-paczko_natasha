@@ -1,5 +1,5 @@
 body {
-  background:linear-gradient( 45deg, rgb(238, 130, 189),rgb(248, 244, 247)) ;
+  background-image: linear-gradient(to left, #b35dbb, #c16ec0, #cd80c6, #d992cc, #e3a4d3);
   width:100%;
   height: 100%;
   font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, seriff;
